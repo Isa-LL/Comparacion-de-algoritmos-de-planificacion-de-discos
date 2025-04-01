@@ -1,0 +1,306 @@
+========================================
+Simulación realizada el: 2025-03-31 11:59:55
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 80.00
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Básico (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 98, 183, 37, 122, 14, 124, 65, 67
+Tiempo total: 640
+Latencia promedio: 80.00
+
+Algoritmo: SSTF
+Orden de acceso: 65, 67, 37, 14, 98, 122, 124, 183
+Tiempo total: 236
+Latencia promedio: 29.50
+
+Algoritmo: SCAN
+Orden de acceso: 65, 67, 98, 122, 124, 183, 37, 14
+Tiempo total: 299
+Latencia promedio: 37.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (236)
+-> Mejor algoritmo en latencia: SSTF (29.50)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 12:01:36
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 15
+- Máximo cilindro: 20000
+- Longitud promedio: 159.73
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Complejo (15 solicitudes extremas)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 0, 199, 5, 195, 10, 190, 15, 185, 20, 180, 25, 175, 30, 170, 35
+Tiempo total: 2396
+Latencia promedio: 159.73
+
+Algoritmo: SSTF
+Orden de acceso: 35, 30, 25, 20, 15, 10, 5, 0, 170, 175, 180, 185, 190, 195, 199
+Tiempo total: 252
+Latencia promedio: 16.80
+
+Algoritmo: SCAN
+Orden de acceso: 170, 175, 180, 185, 190, 195, 199, 35, 30, 25, 20, 15, 10, 5, 0
+Tiempo total: 345
+Latencia promedio: 23.00
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (252)
+-> Mejor algoritmo en latencia: SSTF (16.80)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 12:05:15
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 60.38
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Medio (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 45, 23, 89, 12, 150, 34, 67, 90
+Tiempo total: 483
+Latencia promedio: 60.38
+
+Algoritmo: SSTF
+Orden de acceso: 45, 34, 23, 12, 67, 89, 90, 150
+Tiempo total: 179
+Latencia promedio: 22.38
+
+Algoritmo: SCAN
+Orden de acceso: 67, 89, 90, 150, 45, 34, 23, 12
+Tiempo total: 235
+Latencia promedio: 29.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (179)
+-> Mejor algoritmo en latencia: SSTF (22.38)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 23:47:02
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 80.00
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Básico (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 98, 183, 37, 122, 14, 124, 65, 67
+Tiempo total: 640
+Latencia promedio: 80.00
+
+Algoritmo: SSTF
+Orden de acceso: 65, 67, 37, 14, 98, 122, 124, 183
+Tiempo total: 236
+Latencia promedio: 29.50
+
+Algoritmo: SCAN
+Orden de acceso: 65, 67, 98, 122, 124, 183, 37, 14
+Tiempo total: 299
+Latencia promedio: 37.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (236)
+-> Mejor algoritmo en latencia: SSTF (29.50)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 23:47:06
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 15
+- Máximo cilindro: 20000
+- Longitud promedio: 159.73
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Complejo (15 solicitudes extremas)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 0, 199, 5, 195, 10, 190, 15, 185, 20, 180, 25, 175, 30, 170, 35
+Tiempo total: 2396
+Latencia promedio: 159.73
+
+Algoritmo: SSTF
+Orden de acceso: 35, 30, 25, 20, 15, 10, 5, 0, 170, 175, 180, 185, 190, 195, 199
+Tiempo total: 252
+Latencia promedio: 16.80
+
+Algoritmo: SCAN
+Orden de acceso: 170, 175, 180, 185, 190, 195, 199, 35, 30, 25, 20, 15, 10, 5, 0
+Tiempo total: 345
+Latencia promedio: 23.00
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (252)
+-> Mejor algoritmo en latencia: SSTF (16.80)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 23:47:11
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 60.38
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Medio (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 45, 23, 89, 12, 150, 34, 67, 90
+Tiempo total: 483
+Latencia promedio: 60.38
+
+Algoritmo: SSTF
+Orden de acceso: 45, 34, 23, 12, 67, 89, 90, 150
+Tiempo total: 179
+Latencia promedio: 22.38
+
+Algoritmo: SCAN
+Orden de acceso: 67, 89, 90, 150, 45, 34, 23, 12
+Tiempo total: 235
+Latencia promedio: 29.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (179)
+-> Mejor algoritmo en latencia: SSTF (22.38)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 23:53:03
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 60.38
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Medio (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 45, 23, 89, 12, 150, 34, 67, 90
+Tiempo total: 483
+Latencia promedio: 60.38
+
+Algoritmo: SSTF
+Orden de acceso: 45, 34, 23, 12, 67, 89, 90, 150
+Tiempo total: 179
+Latencia promedio: 22.38
+
+Algoritmo: SCAN
+Orden de acceso: 67, 89, 90, 150, 45, 34, 23, 12
+Tiempo total: 235
+Latencia promedio: 29.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (179)
+-> Mejor algoritmo en latencia: SSTF (22.38)
+========================================
+
+========================================
+Simulación realizada el: 2025-03-31 23:53:12
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 15
+- Máximo cilindro: 20000
+- Longitud promedio: 159.73
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Complejo (15 solicitudes extremas)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 0, 199, 5, 195, 10, 190, 15, 185, 20, 180, 25, 175, 30, 170, 35
+Tiempo total: 2396
+Latencia promedio: 159.73
+
+Algoritmo: SSTF
+Orden de acceso: 35, 30, 25, 20, 15, 10, 5, 0, 170, 175, 180, 185, 190, 195, 199
+Tiempo total: 252
+Latencia promedio: 16.80
+
+Algoritmo: SCAN
+Orden de acceso: 170, 175, 180, 185, 190, 195, 199, 35, 30, 25, 20, 15, 10, 5, 0
+Tiempo total: 345
+Latencia promedio: 23.00
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (252)
+-> Mejor algoritmo en latencia: SSTF (16.80)
+========================================
+
+========================================
+Simulación realizada el: 2025-04-01 00:08:15
+CONFIGURACIÓN:
+- Posición inicial del cabezal: 53
+- Cantidad de solicitudes: 8
+- Máximo cilindro: 20000
+- Longitud promedio: 80.00
+
+DETALLE DE SOLICITUDES:
+Configuración inicial:
+- Caso utilizado: Caso Básico (8 solicitudes)
+
+
+RESULTADOS:
+Algoritmo: FCFS
+Orden de acceso: 98, 183, 37, 122, 14, 124, 65, 67
+Tiempo total: 640
+Latencia promedio: 80.00
+
+Algoritmo: SSTF
+Orden de acceso: 65, 67, 37, 14, 98, 122, 124, 183
+Tiempo total: 236
+Latencia promedio: 29.50
+
+Algoritmo: SCAN
+Orden de acceso: 65, 67, 98, 122, 124, 183, 37, 14
+Tiempo total: 299
+Latencia promedio: 37.38
+
+CONCLUSIONES:
+-> Mejor algoritmo en tiempo: SSTF (236)
+-> Mejor algoritmo en latencia: SSTF (29.50)
+========================================
+
